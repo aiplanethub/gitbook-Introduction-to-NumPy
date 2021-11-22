@@ -24,7 +24,7 @@
 
 * Matrix is an arrangement of numbers into rows and columns
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 * The matrix A has two rows and three columns
 
@@ -40,7 +40,7 @@
 * If a matrix has its shape as 2 X 3 X 2 (say for example), the dimension of the matrix would be 3.
 * Don’t worry if you don’t get this point. You will make it as you go along
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 ### Matrix
 
