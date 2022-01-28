@@ -20,5 +20,5 @@
   * [Positive Indexing](module-6-indexing-and-slicing/positive-indexing.md)
   * [Negative Indexing](module-6-indexing-and-slicing/negative-indexing.md)
   * [Striding](module-6-indexing-and-slicing/striding.md)
-* [Optional (Additional Practice Resources)](optional-additional-practice-resources.md)
+* [(Optional): Additional Practice](optional-additional-practice.md)
 * [Final Assignment](final-assignment.md)
