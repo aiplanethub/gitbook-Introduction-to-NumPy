@@ -11,7 +11,7 @@
 
 ### Dimensions
 
-**Now, what are dimensions? **- Let’s take an example of** **box to explain this. A box has three dimensions width, length and depth (or height). Similarly, in data science we working “N” dimensional datasets. “N” could be any number.
+**Now, what are dimensions?** - Let’s take an example of **** box to explain this. A box has three dimensions width, length and depth (or height). Similarly, in data science we working “N” dimensional datasets. “N” could be any number.
 
 ![](<../.gitbook/assets/image (1).png>)
 

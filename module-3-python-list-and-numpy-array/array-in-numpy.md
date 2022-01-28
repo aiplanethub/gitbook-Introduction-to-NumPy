@@ -8,7 +8,7 @@
 
 ### More Information About Arrays
 
-* You might occasionally hear an array referred as **‘ndarray’**, which is shorthand for** ‘N - dimensional array’.**
+* You might occasionally hear an array referred as **‘ndarray’**, which is shorthand for **‘N - dimensional array’.**
 * **1D array, 2D array, ndarray, Vector, Matrix**
 * An N - dimensional array is an array with **n** number of dimensions, for example **1-D** or one dimensional array, **2-D** or two dimensional array and so on.
 
