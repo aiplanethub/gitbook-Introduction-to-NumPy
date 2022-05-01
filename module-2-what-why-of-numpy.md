@@ -30,6 +30,6 @@ You can import/load NumPy in your notebook or any other Python IDE in two differ
 
 `import numpy as np`
 
-we will be using **np** shorthand for numpy. It simply serves as an alias and it is easier to use pd instead writing full form ‘pandas’ while coding.
+we will be using **np** shorthand for numpy. It simply serves as an alias and it is easier to use np instead writing full form ‘numpy’ while coding.
 
 Note: In this bootcamp, we will use `import numpy as np`
